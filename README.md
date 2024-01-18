@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @Zaheen04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
+- <!---
 Zaheen04/Zaheen04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -23,8 +16,7 @@ Check out my [portfolio](https://zaheen04.github.io/) to see some of my projects
 ## LinkedIn
 
 Connect with me on [LinkedIn](http://www.linkedin.com/in/zaheenkhan/) for professional networking.
-
-
+Full Stack Web Developer with a results-driven approach. Excel in collaborative team environments, specializing in the development of scalable web applications. Proficient in HTML, CSS, and React.js for frontend, as well as Node.js/Express.js for backend development. Experienced in both solo and collaborative projects, demonstrating adaptability and skill in diverse settings. Enthusiastic about applying 35 weeks of industry training, boasting involvement in 4 major collaborative projects.
 <p align="center" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Zaheen04&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
