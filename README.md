@@ -10,6 +10,21 @@
 Zaheen04/Zaheen04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## About Me
+
+I am a passionate [Full-Stack Web Developer](https://zaheen04.github.io/ dedicated to creating user-friendly and accessible web applications.
+
+## Portfolio
+
+Check out my [portfolio](https://zaheen04.github.io/) to see some of my projects.
+
+## LinkedIn
+
+Connect with me on [LinkedIn](http://www.linkedin.com/in/zaheenkhan/) for professional networking.
+
+
 <p align="center" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Zaheen04&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
